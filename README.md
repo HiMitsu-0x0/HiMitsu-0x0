@@ -4,7 +4,7 @@
   width="100%"
 />
 
-# HiMitsu
+# Mitsu
 
 ### ABOUT
 
