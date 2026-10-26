@@ -8,7 +8,7 @@
 
 ### ABOUT
 
-C++ And Zig Developer passionate about systems programming, performance optimization, and computer science.
+C++ Developer passionate about systems programming, performance optimization, and computer science.
 
 ### GITHUB STATS
 
